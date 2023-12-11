@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "367934730768",
+    "project_id": "medireflex2",
+    "storage_bucket": "medireflex2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367934730768:android:90331adf2de1a66e01d095",
+        "android_client_info": {
+          "package_name": "com.empresa.proyecto_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367934730768-6jq904ca7bihdsf34fdhss1kcathubos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_hYRA6wu3io_LK5aGguavOjMgljyqoVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367934730768-6jq904ca7bihdsf34fdhss1kcathubos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367934730768:android:ef3a0d1063e5cab801d095",
+        "android_client_info": {
+          "package_name": "com.miempresa.proyecto_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367934730768-6jq904ca7bihdsf34fdhss1kcathubos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_hYRA6wu3io_LK5aGguavOjMgljyqoVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367934730768-6jq904ca7bihdsf34fdhss1kcathubos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
